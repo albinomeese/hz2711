@@ -1,12 +1,14 @@
 ---
-title: "My awesome website"
+title: "Hansheng's website"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
-# This is Jeff's awesome website
+Welcome to Hansheng's personal website!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I am a second year MPH student in Epidemiology at Columbia University.
+You can find more information about my work and school experience on this page!
+
+![This is my favorite Halloween costume (not me)](Randall Boggs.jpg)

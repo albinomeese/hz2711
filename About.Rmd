@@ -1,0 +1,58 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+I am from Gaithersburg, Maryland. I graduated from the University of Maryland with a BS in Public Health Science in 2020. Outside of school, I enjoy playing volleyball (for the Columbia Men's Club Volleyball team), sleeping, typing, and regretting middle school fashion choices. 
+
+Work and Research Experience
+--
+
+* Aug 2021 - Present
+
+FDA Fellow - White Oak, MD
+
+Correlated MRI data to clinical endpoints of relapsing multiple sclerosis for clinical trials of different drugs. 
+      
+* July 2020 – July 2021 	
+
+Technical Assistant – Mandava Associates, Silver Spring, MD
+
+Mandava Associates provides regulatory and chemical consulting. As a technical assistant, I handle areas of pesticide registration with the EPA and FDA. I also assist with technical writing and product marketing.  
+			
+* Aug 2018 – May 2019	
+
+Research Assistant – University of Maryland, College Park
+			
+Studied subjects with Influenza A and other acute respiratory infections to identify the biomarkers that are associated with contagion. This is part of the Characterizing and Tracking College Health (C.A.T.C.H.) study.
+			
+* May – Aug 2017	
+
+Research Intern – NHLBI, NIH
+
+Dr. Neal Young’s Lab
+
+Investigated the effects of PD-1 deficiency on bone marrow failure in a murine model. 
+
+Publications
+--
+
+1. Hollinger MK, Giudice V, Cummings NA, Rivell G, Zhang H, Kajigaya S, Keyvanfar K, Chen J, Feng X, Young NS.PD-1 deficiency augments
+bone marrow failure in a minor-histocompatibility antigen. Experimental Hematology, 2018 Jun; 62, 17-23.
+2. Li, Y., Li, J., Wang, Y., Zhang, Y., Chu, J., Sun, C., Fu, Z., Huang, Y., Zhang, H., Yuan, H., Yin, Y. Roles of cancer/testis antigens (CTAs) in
+breast cancer. Cancer Letters, 2017 July; 399, 64-73.
+3. Zhang, X., Cruz, I., Zhang, H., Hilakivi-Clarke, L. Abstract 4322: Maternal obesity increases tamoxifen resistance in female rat offspring. AACR
+annual meeting, 2016; New Orleans, LA
+
+Skills
+--
+
+* Proficient in Microsoft Office Suite
+* Advanced laboratory skills
+* Working knowledge of Python, SAS, R
+* Fluent in Mandarin Chinese
+* Fast typist – 120 wpm
+* Communication and teamwork
